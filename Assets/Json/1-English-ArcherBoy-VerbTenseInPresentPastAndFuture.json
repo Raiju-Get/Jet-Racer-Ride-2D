@@ -1,0 +1,514 @@
+{
+    "1EnglishArcherBoyVerbtenseinpresentpastandfuture": {
+        "Level 1": {
+            "I ______ hard today.": {
+                "Correct": "Worked",
+                "Incorrect1": "Will work",
+                "Incorrect2": "Was",
+                "Incorrect3": "Working",
+                "Image": "https://np.chimpvine.com/pluginfile.php/12698/block_cocoon_services/slides/1/Website_sections__time.png",
+                "Suggestion": "suggestion",
+                "Audio": "https://www.chimpvine.org/gameAssets/awaj.ogg",
+                "SuggestionURL": "https://np.chimpvine.com/"
+            },
+            "The teacher _______ the question.": {
+                "Correct": "Asked",
+                "Incorrect1": "Ask",
+                "Incorrect2": "Will ask",
+                "Incorrect3": "Asks",
+                "Image": "https://np.chimpvine.com/pluginfile.php/12698/block_cocoon_services/slides/1/Website_sections__time.png",
+                "Suggestion": "suggestion",
+                "Audio": "https://www.chimpvine.org/gameAssets/awaj.ogg",
+                "SuggestionURL": "https://np.chimpvine.com/"
+            },
+            "Daniel _______ the can.": {
+                "Correct": "Emptied",
+                "Incorrect1": "Empty",
+                "Incorrect2": "Empties",
+                "Incorrect3": "Will empty",
+                "Image": "https://np.chimpvine.com/pluginfile.php/12698/block_cocoon_services/slides/1/Website_sections__time.png",
+                "Suggestion": "suggestion",
+                "Audio": "https://www.chimpvine.org/gameAssets/awaj.ogg",
+                "SuggestionURL": "https://np.chimpvine.com/"
+            },
+            "Granny _______ the dishes.": {
+                "Correct": "Washed",
+                "Incorrect1": "Will wash",
+                "Incorrect2": "Washes",
+                "Incorrect3": "Wash",
+                "Image": "https://np.chimpvine.com/pluginfile.php/12698/block_cocoon_services/slides/1/Website_sections__time.png",
+                "Suggestion": "suggestion",
+                "Audio": "https://www.chimpvine.org/gameAssets/awaj.ogg",
+                "SuggestionURL": "https://np.chimpvine.com/"
+            },
+            "Edward and Ella_______ a movie.": {
+                "Correct": "Filmed",
+                "Incorrect1": "Films",
+                "Incorrect2": "Film",
+                "Incorrect3": "Will film",
+                "Image": "https://np.chimpvine.com/pluginfile.php/12698/block_cocoon_services/slides/1/Website_sections__time.png",
+                "Suggestion": "suggestion",
+                "Audio": "https://www.chimpvine.org/gameAssets/awaj.ogg",
+                "SuggestionURL": "https://np.chimpvine.com/"
+            },
+            "Ballerinas __________ beautifully.": {
+                "Correct": "Danced",
+                "Incorrect1": "Dance",
+                "Incorrect2": "Will dance",
+                "Incorrect3": "Dances",
+                "Image": "https://np.chimpvine.com/pluginfile.php/12698/block_cocoon_services/slides/1/Website_sections__time.png",
+                "Suggestion": "suggestion",
+                "Audio": "https://www.chimpvine.org/gameAssets/awaj.ogg",
+                "SuggestionURL": "https://np.chimpvine.com/"
+            },
+            "The postman _________ the letter": {
+                "Correct": "Delivered",
+                "Incorrect1": "Deliver",
+                "Incorrect2": "Delivers",
+                "Incorrect3": "Will deliver",
+                "Image": "https://np.chimpvine.com/pluginfile.php/12698/block_cocoon_services/slides/1/Website_sections__time.png",
+                "Suggestion": "suggestion",
+                "Audio": "https://www.chimpvine.org/gameAssets/awaj.ogg",
+                "SuggestionURL": "https://np.chimpvine.com/"
+            },
+            "The plumber __________ the pipe.": {
+                "Correct": "Mended",
+                "Incorrect1": "Mends",
+                "Incorrect2": "Mend",
+                "Incorrect3": "Will mend",
+                "Image": "https://np.chimpvine.com/pluginfile.php/12698/block_cocoon_services/slides/1/Website_sections__time.png",
+                "Suggestion": "suggestion",
+                "Audio": "https://www.chimpvine.org/gameAssets/awaj.ogg",
+                "SuggestionURL": "https://np.chimpvine.com/"
+            },
+            " Students ___________ the fight.": {
+                "Correct": "Watched",
+                "Incorrect1": "Will watch",
+                "Incorrect2": "Watch",
+                "Incorrect3": "Watches",
+                "Image": "https://np.chimpvine.com/pluginfile.php/12698/block_cocoon_services/slides/1/Website_sections__time.png",
+                "Suggestion": "suggestion",
+                "Audio": "https://www.chimpvine.org/gameAssets/awaj.ogg",
+                "SuggestionURL": "https://np.chimpvine.com/"
+            },
+            "Leo ________ the lunch.": {
+                "Correct": "Enjoyed",
+                "Incorrect1": "Enjoy",
+                "Incorrect2": "Enjoys",
+                "Incorrect3": "Will enjoy",
+                "Image": "https://np.chimpvine.com/pluginfile.php/12698/block_cocoon_services/slides/1/Website_sections__time.png",
+                "Suggestion": "suggestion",
+                "Audio": "https://www.chimpvine.org/gameAssets/awaj.ogg",
+                "SuggestionURL": "https://np.chimpvine.com/"
+            }
+        },
+        "Level 2": {
+            "Mary _______ drinking milk.": {
+                "Correct": "Hated",
+                "Incorrect1": "Will Hate",
+                "Incorrect2": "Hates",
+                "Incorrect3": "=PROPER(F12)",
+                "Image": "",
+                "Suggestion": "",
+                "Audio": "",
+                "SuggestionURL": ""
+            },
+            "Aunt _______ me with my homework.": {
+                "Correct": "Helped",
+                "Incorrect1": "Helps",
+                "Incorrect2": "Help",
+                "Incorrect3": "=PROPER(F13)",
+                "Image": "",
+                "Suggestion": "",
+                "Audio": "",
+                "SuggestionURL": ""
+            },
+            "Will ________ to help my brother.": {
+                "Correct": "Agreed",
+                "Incorrect1": "Agree",
+                "Incorrect2": "Will Agree",
+                "Incorrect3": "=PROPER(F14)",
+                "Image": "",
+                "Suggestion": "",
+                "Audio": "",
+                "SuggestionURL": ""
+            },
+            "We _______ in the backyard.": {
+                "Correct": "Played",
+                "Incorrect1": "Plays",
+                "Incorrect2": "Will Play",
+                "Incorrect3": "=PROPER(F15)",
+                "Image": "",
+                "Suggestion": "",
+                "Audio": "",
+                "SuggestionURL": ""
+            },
+            "My pet______ the milk.": {
+                "Correct": "spilled",
+                "Incorrect1": "Spills",
+                "Incorrect2": "Spill",
+                "Incorrect3": "=PROPER(F16)",
+                "Image": "",
+                "Suggestion": "",
+                "Audio": "",
+                "SuggestionURL": ""
+            },
+            "The teacher ________ in the classroom.": {
+                "Correct": "entered",
+                "Incorrect1": "Will Enter",
+                "Incorrect2": "Enters",
+                "Incorrect3": "=PROPER(F17)",
+                "Image": "",
+                "Suggestion": "",
+                "Audio": "",
+                "SuggestionURL": ""
+            },
+            "The baby _______ after the meal.": {
+                "Correct": "cried",
+                "Incorrect1": "Cries",
+                "Incorrect2": "Will Cry",
+                "Incorrect3": "=PROPER(F18)",
+                "Image": "",
+                "Suggestion": "",
+                "Audio": "",
+                "SuggestionURL": ""
+            },
+            "The wheel ________ itself.": {
+                "Correct": "turned",
+                "Incorrect1": "Turn",
+                "Incorrect2": "Will Turn",
+                "Incorrect3": "=PROPER(F19)",
+                "Image": "",
+                "Suggestion": "",
+                "Audio": "",
+                "SuggestionURL": ""
+            },
+            "Elliot and Peter ______ at her words.": {
+                "Correct": "nodded",
+                "Incorrect1": "Nod",
+                "Incorrect2": "Nods",
+                "Incorrect3": "=PROPER(F20)",
+                "Image": "",
+                "Suggestion": "",
+                "Audio": "",
+                "SuggestionURL": ""
+            },
+            "Bella ______ pushed me.": {
+                "Correct": "pushed",
+                "Incorrect1": "Push",
+                "Incorrect2": "Pushes",
+                "Incorrect3": "=PROPER(F21)",
+                "Image": "",
+                "Suggestion": "",
+                "Audio": "",
+                "SuggestionURL": ""
+            }
+        },
+        "level 3": {
+            "Hamlet _______ the slime.": {
+                "Correct": "Touched",
+                "Incorrect1": "Touches",
+                "Incorrect2": "=PROPER(D22)",
+                "Incorrect3": "=PROPER(F22)",
+                "Image": "",
+                "Suggestion": "",
+                "Audio": "",
+                "SuggestionURL": ""
+            },
+            "Margaret _______ Elsa.": {
+                "Correct": "Married",
+                "Incorrect1": "Marries",
+                "Incorrect2": "=PROPER(D23)",
+                "Incorrect3": "=PROPER(F23)",
+                "Image": "",
+                "Suggestion": "",
+                "Audio": "",
+                "SuggestionURL": ""
+            },
+            "Grandpa ________ the shrine.": {
+                "Correct": "Visited",
+                "Incorrect1": "Visits",
+                "Incorrect2": "=PROPER(D24)",
+                "Incorrect3": "=PROPER(F24)",
+                "Image": "",
+                "Suggestion": "",
+                "Audio": "",
+                "SuggestionURL": ""
+            },
+            "Gary ______ the can.": {
+                "Correct": "Opened",
+                "Incorrect1": "Open",
+                "Incorrect2": "=PROPER(D25)",
+                "Incorrect3": "=PROPER(F25)",
+                "Image": "",
+                "Suggestion": "",
+                "Audio": "",
+                "SuggestionURL": ""
+            },
+            "I ______ for Biden.": {
+                "Correct": "Voted",
+                "Incorrect1": "Votes",
+                "Incorrect2": "=PROPER(D26)",
+                "Incorrect3": "=PROPER(F26)",
+                "Image": "",
+                "Suggestion": "",
+                "Audio": "",
+                "SuggestionURL": ""
+            },
+            "Lincoln _______ the american history.": {
+                "Correct": "Changed",
+                "Incorrect1": "Changes",
+                "Incorrect2": "=PROPER(D27)",
+                "Incorrect3": "=PROPER(F27)",
+                "Image": "",
+                "Suggestion": "",
+                "Audio": "",
+                "SuggestionURL": ""
+            },
+            "Billy ______ his dad.": {
+                "Correct": "Insulted",
+                "Incorrect1": "Will Insult ",
+                "Incorrect2": "=PROPER(D28)",
+                "Incorrect3": "=PROPER(F28)",
+                "Image": "",
+                "Suggestion": "",
+                "Audio": "",
+                "SuggestionURL": ""
+            },
+            "Danny and I ______ for his permission.": {
+                "Correct": "Asked",
+                "Incorrect1": "Ask",
+                "Incorrect2": "=PROPER(D29)",
+                "Incorrect3": "=PROPER(F29)",
+                "Image": "",
+                "Suggestion": "",
+                "Audio": "",
+                "SuggestionURL": ""
+            },
+            "He _______ a fruitful life.": {
+                "Correct": "Lived",
+                "Incorrect1": "Lives",
+                "Incorrect2": "=PROPER(D30)",
+                "Incorrect3": "=PROPER(F30)",
+                "Image": "",
+                "Suggestion": "",
+                "Audio": "",
+                "SuggestionURL": ""
+            },
+            "Celine ______ at her sister.": {
+                "Correct": "Screamed",
+                "Incorrect1": "Scream",
+                "Incorrect2": "=PROPER(D31)",
+                "Incorrect3": "=PROPER(F31)",
+                "Image": "",
+                "Suggestion": "",
+                "Audio": "",
+                "SuggestionURL": ""
+            }
+        },
+        "level 4": {
+            "The cook ________ me some food.": {
+                "Correct": "Offered",
+                "Incorrect1": "Offer",
+                "Incorrect2": "=PROPER(D32)",
+                "Incorrect3": "Will Offer",
+                "Image": "",
+                "Suggestion": "",
+                "Audio": "",
+                "SuggestionURL": ""
+            },
+            "Mandy _________ my new dress.": {
+                "Correct": "Liked",
+                "Incorrect1": "Likes",
+                "Incorrect2": "=PROPER(D33)",
+                "Incorrect3": "Like",
+                "Image": "",
+                "Suggestion": "",
+                "Audio": "",
+                "SuggestionURL": ""
+            },
+            "Brian ________ his brother.": {
+                "Correct": "Loved",
+                "Incorrect1": "Loves",
+                "Incorrect2": "=PROPER(D34)",
+                "Incorrect3": "Will Love",
+                "Image": "",
+                "Suggestion": "",
+                "Audio": "",
+                "SuggestionURL": ""
+            },
+            "Henry _________ all of a sudden.": {
+                "Correct": "Disappeared",
+                "Incorrect1": "Will Disappear",
+                "Incorrect2": "=PROPER(D35)",
+                "Incorrect3": "Disappeared",
+                "Image": "",
+                "Suggestion": "",
+                "Audio": "",
+                "SuggestionURL": ""
+            },
+            "I ______ my knees while dancing.": {
+                "Correct": "Twisted",
+                "Incorrect1": "Twists",
+                "Incorrect2": "=PROPER(D36)",
+                "Incorrect3": "Will Twist",
+                "Image": "",
+                "Suggestion": "",
+                "Audio": "",
+                "SuggestionURL": ""
+            },
+            "My brother ________ himself.": {
+                "Correct": "Injured",
+                "Incorrect1": "Injures",
+                "Incorrect2": "=PROPER(D37)",
+                "Incorrect3": "Injured",
+                "Image": "",
+                "Suggestion": "",
+                "Audio": "",
+                "SuggestionURL": ""
+            },
+            "I _____ preparing for my exams.": {
+                "Correct": "Started",
+                "Incorrect1": "Starts",
+                "Incorrect2": "=PROPER(D38)",
+                "Incorrect3": "Started",
+                "Image": "",
+                "Suggestion": "",
+                "Audio": "",
+                "SuggestionURL": ""
+            },
+            "The snow  in the mountains________ due to global warming.": {
+                "Correct": "Melted",
+                "Incorrect1": "Melts",
+                "Incorrect2": "=PROPER(D39)",
+                "Incorrect3": "Melted",
+                "Image": "",
+                "Suggestion": "",
+                "Audio": "",
+                "SuggestionURL": ""
+            },
+            "Dad ______ around for me.": {
+                "Correct": "Looked",
+                "Incorrect1": "Looks",
+                "Incorrect2": "=PROPER(D40)",
+                "Incorrect3": "Will Look",
+                "Image": "",
+                "Suggestion": "",
+                "Audio": "",
+                "SuggestionURL": ""
+            },
+            "The spider ________ me.": {
+                "Correct": "Scared",
+                "Incorrect1": "Scares",
+                "Incorrect2": "=PROPER(D41)",
+                "Incorrect3": "Scare",
+                "Image": "",
+                "Suggestion": "",
+                "Audio": "",
+                "SuggestionURL": ""
+            }
+        },
+        "Level 5": {
+            "The instructor _______ my question.": {
+                "Correct": "Ignored",
+                "Incorrect1": "Ignores",
+                "Incorrect2": "Will Ignore",
+                "Incorrect3": "Ignore",
+                "Image": "",
+                "Suggestion": "",
+                "Audio": "",
+                "SuggestionURL": ""
+            },
+            "I ______ 10 dollars today.": {
+                "Correct": "Earned",
+                "Incorrect1": "Will Earn",
+                "Incorrect2": "Earn",
+                "Incorrect3": "Earns",
+                "Image": "",
+                "Suggestion": "",
+                "Audio": "",
+                "SuggestionURL": ""
+            },
+            "Sandy and Harry _________ pizza.": {
+                "Correct": "Enjoyed",
+                "Incorrect1": "Will Enjoy",
+                "Incorrect2": "Enjoys",
+                "Incorrect3": "Enjoy",
+                "Image": "",
+                "Suggestion": "",
+                "Audio": "",
+                "SuggestionURL": ""
+            },
+            "Granny _______ a scarf for me and my sister.": {
+                "Correct": "Knitted",
+                "Incorrect1": "Knits",
+                "Incorrect2": "Knit",
+                "Incorrect3": "Will Knit",
+                "Image": "",
+                "Suggestion": "",
+                "Audio": "",
+                "SuggestionURL": ""
+            },
+            "Mom _______ my laundry.": {
+                "Correct": "Folded",
+                "Incorrect1": "Folds",
+                "Incorrect2": "Will Fold",
+                "Incorrect3": "Fold",
+                "Image": "",
+                "Suggestion": "",
+                "Audio": "",
+                "SuggestionURL": ""
+            },
+            "Stella _______ to return home.": {
+                "Correct": "Managed",
+                "Incorrect1": "Manages",
+                "Incorrect2": "Will Manage",
+                "Incorrect3": "Manage",
+                "Image": "",
+                "Suggestion": "",
+                "Audio": "",
+                "SuggestionURL": ""
+            },
+            "Sheila _____ my hands while I was about to fall.": {
+                "Correct": "Held",
+                "Incorrect1": "Holds",
+                "Incorrect2": "Will Hold",
+                "Incorrect3": "Hold",
+                "Image": "",
+                "Suggestion": "",
+                "Audio": "",
+                "SuggestionURL": ""
+            },
+            "Devian ________ me to his sister.": {
+                "Correct": "Introduced",
+                "Incorrect1": "Introduces",
+                "Incorrect2": "Introduce",
+                "Incorrect3": "Will Introduce",
+                "Image": "",
+                "Suggestion": "",
+                "Audio": "",
+                "SuggestionURL": ""
+            },
+            "Oprah ________ before me.": {
+                "Correct": "Appeared",
+                "Incorrect1": "Appears",
+                "Incorrect2": "Will Appear",
+                "Incorrect3": "Appear",
+                "Image": "",
+                "Suggestion": "",
+                "Audio": "",
+                "SuggestionURL": ""
+            },
+            "Ken _______ Ryan so easily.": {
+                "Correct": "Lifted",
+                "Incorrect1": "Lifts",
+                "Incorrect2": "Lift",
+                "Incorrect3": "Will Lift",
+                "Image": "",
+                "Suggestion": "",
+                "Audio": "",
+                "SuggestionURL": ""
+            }
+        }
+    }
+}
